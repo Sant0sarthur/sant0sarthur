@@ -1,6 +1,3 @@
-
-### Hi there 👋
-
   ## Olá! Eu me chamo Arthur Santos. 
   Sou graduando em Engenharia da computação pelo CIN - UFPE
 
