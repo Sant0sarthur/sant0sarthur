@@ -17,8 +17,8 @@ jobs:
     steps:
 
     # Checks repo under $GITHUB_WORKSHOP, so your job can access it
-      - uses: Sant0sarthur
-      
+      - uses: actions/checkout@v2
+
     # Repositorio que será utilizado para gerar os arquivos.
       - uses: Platane/snk@master
         id: snake-gif
