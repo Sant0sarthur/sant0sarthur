@@ -1,6 +1,6 @@
 <div align="center">
   <a href="https://github.com/sant0sarthur">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Sant0sarthur&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Sant0sarthur&show_icons=true&theme=dark&count_private=TRUE&include_all_commits=TRUE"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sant0sarthur&layout=compact&langs_count=7&theme=dark"/>
 </div>
 <div align="center" style="display: inline_block"><br>
