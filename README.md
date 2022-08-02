@@ -3,7 +3,7 @@
 <div align="center">
 
   <a href="https://github.com/sant0sarthur">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Sant0sarthur&show_icons=true&theme=dark&count_private=true&include_all_commits=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Sant0sarthur&show_icons=True&theme=dark&count_private=true&include_all_commits=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sant0sarthur&layout=compact&langs_count=7&theme=dark"/>
   <h5 align="left">⚠Note: Top languages used are just a metric of the languages my public code consists of and do not reflect experience or skill level.</h5>
 </div>
