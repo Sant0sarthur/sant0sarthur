@@ -1,4 +1,4 @@
-<!--   📊stats   -->
+<!--   📊stats   
 ## 📊 Github Stats
 <div align="center">
 
@@ -23,3 +23,4 @@
   </div>
   
 ![snake gif](https://github.com/Sant0sarthur/Sant0sarthur/blob/output/github-contribution-grid-snake.svg)
+-->
